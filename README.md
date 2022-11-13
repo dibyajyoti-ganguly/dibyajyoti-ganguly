@@ -12,13 +12,25 @@
 </div>
 <br>
 
-- 👀 I’m interested in server side development and exploring js-based frameworks.
+- 👨‍💻 I’m interested in server side development and exploring js-based frameworks.
+
 - 🌱 I’m currently learning React.
+
 - 💞️ I’m looking to collaborate on open-source projects.
+
 - 📫 How to reach me : dg7255@srmist.edu.in 👈
 
 <br>
 
+<h3>Connect with me 👇:</h3>
+
+<a href="https://www.linkedin.com/in/dibyajyoti-ganguly-2261621b9/">
+<code><img height="50"
+src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></code>
+<a href="https://twitter.com/DibyajyotiGang3">
+<code><img height="50"
+src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"></code></a>
+  
 <h3>Languages and Tools</h3>
 
 <code><img height="50"
@@ -31,8 +43,9 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="50"
 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"></code>
+<a href="https://getbootstrap.com/">
 <code><img height="50"
-src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code></a>
 <code><img height="50"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="50"
@@ -56,6 +69,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-origi
 <h3>Github Stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dibyajyoti2002&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dibyajyoti2002&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyajyoti2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
