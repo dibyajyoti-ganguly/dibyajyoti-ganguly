@@ -63,6 +63,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-word
 src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 <code><img height="50"
 src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="50"
+src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg"></code>
 
 <br>
 
