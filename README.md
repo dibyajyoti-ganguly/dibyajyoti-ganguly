@@ -52,8 +52,9 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="50"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
+<a href="https://www.figma.com/">
 <code><img height="50"
-src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code>
+src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"></code></a>
 <code><img height="50"
 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg"></code>
 
