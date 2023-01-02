@@ -18,7 +18,7 @@
 
 - 💞️ I’m looking to collaborate on open-source projects.
 
-- 📫 How to reach me : dg7255@srmist.edu.in 👈
+- 📫 How to reach me : gangulyd49@gmail.com 👈
 
 <br>
 
