@@ -35,10 +35,10 @@ src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-origi
 
 <code><img height="50"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-<code>
-<img height="50"
+<code><img height="50"
 src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </code>
+  
 <code><img height="50"
 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="50"
