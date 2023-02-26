@@ -14,7 +14,7 @@
 
 - 👨‍💻 I’m interested in server side development and exploring js-based frameworks.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React.js
 
 - 💞️ I’m looking to collaborate on open-source projects.
 
