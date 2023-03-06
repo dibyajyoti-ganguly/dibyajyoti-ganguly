@@ -12,7 +12,7 @@
 </div>
 <br>
 
-- 👨‍💻 I’m interested in server side development and exploring js-based frameworks.
+- 👨‍💻 I'm fond of exploring js-based frameworks.
 
 - 🌱 I’m currently learning React.js
 
