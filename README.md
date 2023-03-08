@@ -59,6 +59,8 @@ src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.
 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg"></code>
 
 <code><img height="50"
+src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"></code>
+<code><img height="50"
 src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="50"
 src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
