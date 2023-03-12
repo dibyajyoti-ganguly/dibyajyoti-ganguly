@@ -14,7 +14,7 @@
 
 - 👨‍💻 I'm fond of exploring js-based frameworks.
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js
 
 - 💞️ I’m looking to collaborate on open-source projects.
 
