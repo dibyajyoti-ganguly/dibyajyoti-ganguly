@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
   I am Dibyajyoti
   </h1>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%"/>
+  <img src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e472i7rxidb0isjftd3osywouzmxagut5ri8dzqx9sw&rid=giphy.gif&ct=g" width="50%"/>
 </div>
 <br>
 <div id="header" align="center">
