@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
   I am Dibyajyoti
   </h1>
-  <img src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="50%"/>
+  <img src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="300"/>
 </div>
 <br>
 <div id="header" align="center">
