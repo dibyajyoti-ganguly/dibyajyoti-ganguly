@@ -14,8 +14,6 @@
 
 - 👨‍💻 I'm fond of exploring js-based frameworks.
 
-- 🌱 I’m currently learning Nest.js
-
 - 💞️ I’m looking to collaborate on open-source projects.
 
 - 📫 How to reach me : gangulyd49@gmail.com 👈
