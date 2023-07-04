@@ -77,17 +77,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dibyajyoti2002&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dibyajyoti2002&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyajyoti2002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
 
 <!---
 Dibyajyoti2002/Dibyajyoti2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
