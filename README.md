@@ -19,15 +19,6 @@
 - 📫 How to reach me : gangulyd49@gmail.com 👈
 
 <br>
-
-<h3>Connect with me 👇:</h3>
-
-<a href="https://www.linkedin.com/in/dibyajyoti-ganguly-2261621b9/">
-<code><img height="50"
-src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></code>
-<a href="https://twitter.com/DibyajyotiGang3">
-<code><img height="50"
-src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"></code></a>
   
 <h3>Languages and Tools</h3>
 
