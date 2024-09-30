@@ -8,14 +8,14 @@
 </div>
 <br/>
 
-- 👨‍💻 I'm fond of exploring js-based frameworks.
+- 👋 I am Dibyajyoti, currently working in Deloitte.
 
-- 💞️ I’m looking to collaborate on open-source projects.
+- 💻 I'm exploring different technologies and building stuff.
 
-- 📫 How to reach me : gangulyd49@gmail.com 👈
+- ⚽ I love wathching pro-football.
 
-<br>
-  
+- 📫 You can contact me through my email : gangulyd49@gmail.com
+
 <h3>Languages and Tools</h3>
 
 <code><img height="50"
