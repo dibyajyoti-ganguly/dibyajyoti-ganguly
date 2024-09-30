@@ -12,7 +12,7 @@
 
 - 💻 I'm exploring different technologies and building stuff.
 
-- ⚽ I love wathching pro-football.
+- ⚽ I love watching pro-football.
 
 - 📫 You can contact me through my email : gangulyd49@gmail.com
 
