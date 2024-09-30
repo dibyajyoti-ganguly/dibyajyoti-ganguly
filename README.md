@@ -1,16 +1,12 @@
-<div id="header" align="center">
-  <h1>
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
-  I am Dibyajyoti
-  </h1>
-  <img src="https://media.tenor.com/Lzr7afFB7xUAAAAd/microsoft-hackathon-hackathon.gif" width="300"/>
+<div id="header" align="left">
+  <h3>
+  Hi Techie!!
+  </h3>
 </div>
-<br>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dibyajyoti2002&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dibyajyoti-ganguly&style=flat-square&color=blue" align="left"/>
 </div>
-<br>
+<br/>
 
 - 👨‍💻 I'm fond of exploring js-based frameworks.
 
