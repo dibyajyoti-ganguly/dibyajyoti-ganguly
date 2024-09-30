@@ -16,12 +16,11 @@
 
 - 📫 You can contact me through my email : gangulyd49@gmail.com
 
-<h3>My Socials</h3>
+<h3>My Socials:</h3>
 
 <div id="badges">
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>  
-  <a href=""><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://www.linkedin.com/in/dibyajyoti-ganguly-2261621b9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"   alt="LinkedIn Badge"/></a>  
+  <a href="https://www.instagram.com/_.dgeez._"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>     </a>
 </div>
 
 <!---
