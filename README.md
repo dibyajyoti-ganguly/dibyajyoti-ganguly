@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-- 👋 I am Dibyajyoti, currently working in Deloitte.
+- 👋 I am Dibyajyoti
 
 - 💻 I'm exploring different technologies and building stuff.
 
