@@ -10,9 +10,9 @@
 
 - 👋 I am Dibyajyoti
 
-- 💻 I'm exploring different technologies and building stuff.
+- 💻 Currently deep-diving into React
 
-- ⚽ I love watching pro-football.
+- ⚽ Footy Fan
 
 - 📫 You can contact me through my email : gangulyd49@gmail.com
 
