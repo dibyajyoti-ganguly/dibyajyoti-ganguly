@@ -10,7 +10,7 @@
 
 - 👋 I am Dibyajyoti
 
-- 💻 Currently deep-diving into React
+- 💻 Currently building stuff using React-Redux.
 
 - ⚽ Footy Fan
 
