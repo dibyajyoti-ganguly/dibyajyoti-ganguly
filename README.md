@@ -1,6 +1,6 @@
 <div id="header" align="left">
   <h3>
-  Hi Techie!!
+  Hello!
   </h3>
 </div>
 <div id="header" align="center">
@@ -10,11 +10,11 @@
 
 - 👋 I am Dibyajyoti
 
-- 💻 Currently building stuff using React-Redux.
+- ⚡ Integrating React and Tailwind to build awesome UI's.
+  
+- 🚀 Planning to work on Next and Go
 
 - ⚽ Footy Fan
-
-- 📫 You can contact me through my email : gangulyd49@gmail.com
 
 <h3>Languages and Tools:</h3>
 
