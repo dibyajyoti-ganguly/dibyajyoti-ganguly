@@ -12,7 +12,7 @@
 
 - ⚡ Integrating React and Tailwind to build awesome UI's.
   
-- 🚀 Planning to work on Next and Go
+- 🚀 Planning to work on Next and GoLang
 
 - ⚽ Footy Fan
 
