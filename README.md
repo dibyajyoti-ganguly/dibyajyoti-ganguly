@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-![Dibyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyajyoti-ganguly&show_icons=true&theme=tokyonight&hide=issues,contribs&border_radius=8)
+![Dibyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyajyoti-ganguly&show_icons=true&theme=tokyonight&hide=issues,contribs&border_radius=10&hide_border=true)
 
 <br/>
 
