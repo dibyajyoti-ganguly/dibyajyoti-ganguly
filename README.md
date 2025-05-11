@@ -6,9 +6,9 @@
 
 - 👋 I am Dibyajyoti
 
-- ⚡ Integrating React and Tailwind to build awesome UI's.
+- ⚡ Learning JWT's, auth currently.
   
-- 🚀 Planning to work on Next and GoLang
+- 🚀 Planning to work on Next.
 
 - ⚽ Footy Fan
 
