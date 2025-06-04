@@ -27,7 +27,7 @@
 
 ![Dibyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyajyoti-ganguly&show_icons=true&theme=tokyonight&hide=issues,contribs&border_radius=10&hide_border=true)
 
-<br/>
+## Holopin Badges
 
 [![An image of @dibyajyotiganguly's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dibyajyotiganguly)](https://holopin.io/@dibyajyotiganguly)
 <br/>
