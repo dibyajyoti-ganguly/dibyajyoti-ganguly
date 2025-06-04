@@ -8,7 +8,7 @@
 
 - ⚡ Learning JWT's, auth currently.
   
-- 🚀 Planning to work on Next.
+- 🚀 Planning to work on Next soon.
 
 - ⚽ Footy Fan
 
