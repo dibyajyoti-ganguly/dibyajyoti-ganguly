@@ -23,7 +23,7 @@
   ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Contibution Stats
+## Contribution Stats
 
 ![Dibyajyoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyajyoti-ganguly&show_icons=true&theme=tokyonight&hide=issues,contribs&border_radius=10&hide_border=true)
 
