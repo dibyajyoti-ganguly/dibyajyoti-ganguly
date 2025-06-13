@@ -1,5 +1,5 @@
 # Hi there, I'm Dibyajyoti!
-**Turning coffee into code | Open Source Enthusiast**
+**Software Developer | Open Source Enthusiast**
 
 ## About me
 
