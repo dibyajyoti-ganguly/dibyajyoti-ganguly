@@ -3,10 +3,10 @@
 
 ## About me
 
-- I enjoy building and shipping things.
+- I enjoy building and shipping stuff.
 - Check my pinned repos for my most recent work.
 - Learning about JWT's and auth currently.
-- Planning to dive into Solana development soon. 
+- Planning to build with Solana soon. 
   
 ## Frameworks and Tools
 
