@@ -4,8 +4,8 @@
 ## About me
 
 - I enjoy building and shipping stuff.
-- Check my pinned repositories for my most recent work.
-- Learning NextAuth currently.
+- Check my pinned repos for my most recent work.
+- Learning Next.js currently.
 - Planning to contribute to the Solana ecosystem soon. 
   
 ## Frameworks and Tools
